@@ -10,7 +10,7 @@ elif size == "M":
 elif size == "L":
     bill += 25
 else:
-         print("You typed the wrong inputs.")
+    print("You typed the wrong inputs.")
 if pepperoni == "Y":
     if size == "S":
         bill += 2
